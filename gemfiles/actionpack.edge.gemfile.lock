@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails.git
-  revision: c577657f6de64b743b12a21108dc9cc5cfc35098
+  revision: d6d98680120a049f2a7226214a40fa7ecdd178be
   specs:
     actionpack (5.0.0.beta3)
       actionview (= 5.0.0.beta3)
@@ -25,7 +25,7 @@ PATH
   remote: ../
   specs:
     country_select (2.5.2)
-      countries (= 2.0.0.pre)
+      countries (= 2.0.0.pre.2)
       sort_alphabetical (~> 1.0)
 
 GEM
@@ -34,7 +34,7 @@ GEM
     builder (3.2.2)
     coderay (1.1.1)
     concurrent-ruby (1.0.1)
-    countries (2.0.0.pre)
+    countries (2.0.0.pre.2)
       i18n_data (~> 0.7.0)
       money (~> 6.0)
     diff-lcs (1.2.5)
