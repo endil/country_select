@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     country_select (2.5.2)
-      countries (= 2.0.0.pre.4)
+      countries
       sort_alphabetical (~> 1.0)
 
 GEM
